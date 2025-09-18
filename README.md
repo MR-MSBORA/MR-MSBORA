@@ -1,4 +1,4 @@
-#### 👋 Hi, I'm Manish Singh  
+### 👋 Hi, I'm Manish Singh  
 
 🎓 **3rd Year BCA Student @ DAV College, Chandigarh**  
 💻 **Web Developer | Networking Enthusiast | Problem Solver |Security Enthusiast**  
