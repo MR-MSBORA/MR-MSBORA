@@ -36,7 +36,6 @@ Always curious to learn, I combine my knowledge of **DSA, OOPs, and modern web t
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MR-MSBORA&show_icons=true&theme=tokyonight" alt="Manish's GitHub stats" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-MSBORA&theme=tokyonight" alt="GitHub Streak" height="180em"/>
@@ -44,15 +43,13 @@ Always curious to learn, I combine my knowledge of **DSA, OOPs, and modern web t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-MSBORA&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
-</p>  
-
+</p>
 ---
 
 ## 📫 Connect with Me  
 
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
-- 🌐 Portfolio: [Your Website](#)  
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 💼 LinkedIn: www.linkedin.com/in/manishsingh-webdev
+- 📧 Email:manishsinghbora7115@gmail.com 
 
 ---
 
