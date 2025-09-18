@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Manish Singh  
 
 🎓 **3rd Year BCA Student @ DAV College, Chandigarh**  
-💻 **Web Developer | Networking Enthusiast | Problem Solver**  
+💻 **Web Developer | Networking Enthusiast | Problem Solver |Security Enthusiast**  
 
-I’m passionate about building interactive web applications and exploring networking concepts.  
-Always curious to learn, I combine my knowledge of **DSA, OOPs, and modern web technologies** to create meaningful projects.  
+I’m passionate about **web development** and **cybersecurity**, especially **Blue Teaming** — defending systems, analyzing threats, and learning how to secure applications and networks.   
 
 ---
 
@@ -14,15 +13,20 @@ Always curious to learn, I combine my knowledge of **DSA, OOPs, and modern web t
 - **Backend & Database:** MySQL, JavaScript, Java  
 - **Programming Languages:** C, C++, Java  
 - **Core CS:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs)
+- **Tools & Platforms:** Nmap · Wireshark · Linux (CLI & servers)
+- **Languages for security & automation:** Golang
+- **Focus areas:** Network scanning & enumeration, traffic analysis, host hardening, basic exploitation techniques (learning & lab-based)
 
 ---
 
 ## 🌱 Currently Exploring  
 
-- Advanced **React.js** and front-end optimizations  
+- ## 🌱 Currently Exploring & Practicing
+- **Defensive security** — system hardening, monitoring, incident response basics.  
+- **New cybersecurity tools** — evaluating tools for detection and defense.  
+- **Security concepts** — threat modelling, access control, secure design principles.  
+- **Penetration testing basics** — reconnaissance, scanning (Nmap), traffic analysis (Wireshark), and lab-based practice in controlled environments.
 - **Networking fundamentals & system communication**  
-- **Problem-solving in DSA** to sharpen logic building  
-
 ---
 
 ## 🚀 Featured Projects
@@ -33,17 +37,6 @@ Always curious to learn, I combine my knowledge of **DSA, OOPs, and modern web t
 - [CurrencyConverter](https://github.com/MR-MSBORA/CurrencyConverter) — Currency conversion app
 - [Password-Generator](https://github.com/MR-MSBORA/Password-Generator) — Secure password generator
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-MSBORA&show_icons=true&theme=tokyonight" alt="Manish's GitHub stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-MSBORA&theme=tokyonight" alt="GitHub Streak" height="180em"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-MSBORA&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
-</p>
 ---
 
 ## 📫 Connect with Me  
